@@ -4,14 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78848b98-e96c-480d-ad13-98aa1888cfcb" name="Changes" comment="" />
+    <list default="true" id="78848b98-e96c-480d-ad13-98aa1888cfcb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/apps/appointment-api/src/main/java/appointment/backend/api/SampleApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/building-blocks/application/src/main/java/appointment/backend/sample/adapters/SamplePersistenceAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/building-blocks/application/src/main/java/appointment/backend/sample/application/port/in/SampleUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/building-blocks/application/src/main/java/appointment/backend/sample/application/port/out/SamplePersistencePort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/building-blocks/application/src/main/java/appointment/backend/sample/application/service/SampleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/building-blocks/infrastructure/src/main/java/appointment/backend/infrastructure/persistence/repositories/MyEntityRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/building-blocks/infrastructure/src/main/java/appointment/backend/infrastructure/persistence/repositories/TestRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/building-blocks/infrastructure/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/appointment-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apps/appointment-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/appointment-api/src/main/java/appointment/backend/api/GreetingResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/apps/appointment-api/src/main/java/appointment/backend/api/GreetingResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/appointment-api/src/main/java/appointment/backend/api/MyEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/building-blocks/infrastructure/src/main/java/appointment/backend/infrastructure/persistence/entities/MyEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/appointment-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/apps/appointment-api/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/building-blocks/application/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/building-blocks/application/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/building-blocks/configuration/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/building-blocks/configuration/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/building-blocks/infrastructure/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/building-blocks/infrastructure/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/building-blocks/shared/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/building-blocks/shared/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Portables/apache-maven-3.9.2" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2XCYBMbXLeuWUYTBoc8xxgl16IO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -23,10 +63,207 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "graalvm-17-22.3.3",
+    "last_opened_file_path": "E:/PrivatePlace/SoftwareProjects/quarkus-appointment-backend/building-blocks/infrastructure/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PrivatePlace\SoftwareProjects\quarkus-appointment-backend\building-blocks\infrastructure\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Quarkus.appointment-api">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="quarkus-appointment-backend" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="quarkus-appointment-backend" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="application" type="QuarkusRunConfigurationType" factoryName="Quarkus" nameIsGenerated="true">
+      <module name="application" />
+      <QsMavenRunConfiguration>
+        <MavenSettings>
+          <option name="myGeneralSettings" />
+          <option name="myRunnerSettings" />
+          <option name="myRunnerParameters">
+            <MavenRunnerParameters>
+              <option name="profiles">
+                <set />
+              </option>
+              <option name="goals">
+                <list>
+                  <option value="quarkus:dev" />
+                </list>
+              </option>
+              <option name="pomFileName" value="pom.xml" />
+              <option name="profilesMap">
+                <map />
+              </option>
+              <option name="resolveToWorkspace" value="false" />
+              <option name="workingDirPath" value="$PROJECT_DIR$/building-blocks/application" />
+            </MavenRunnerParameters>
+          </option>
+        </MavenSettings>
+        <targetMavenLocalRepo />
+        <emulateTerminal>false</emulateTerminal>
+      </QsMavenRunConfiguration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="appointment-api" type="QuarkusRunConfigurationType" factoryName="Quarkus" nameIsGenerated="true">
+      <module name="appointment-api" />
+      <QsMavenRunConfiguration>
+        <MavenSettings>
+          <option name="myGeneralSettings" />
+          <option name="myRunnerSettings" />
+          <option name="myRunnerParameters">
+            <MavenRunnerParameters>
+              <option name="profiles">
+                <set />
+              </option>
+              <option name="goals">
+                <list>
+                  <option value="quarkus:dev" />
+                </list>
+              </option>
+              <option name="pomFileName" value="pom.xml" />
+              <option name="profilesMap">
+                <map />
+              </option>
+              <option name="resolveToWorkspace" value="false" />
+              <option name="workingDirPath" value="$PROJECT_DIR$/apps/appointment-api" />
+            </MavenRunnerParameters>
+          </option>
+        </MavenSettings>
+        <targetMavenLocalRepo />
+        <emulateTerminal>false</emulateTerminal>
+      </QsMavenRunConfiguration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="configuration" type="QuarkusRunConfigurationType" factoryName="Quarkus" nameIsGenerated="true">
+      <module name="configuration" />
+      <QsMavenRunConfiguration>
+        <MavenSettings>
+          <option name="myGeneralSettings" />
+          <option name="myRunnerSettings" />
+          <option name="myRunnerParameters">
+            <MavenRunnerParameters>
+              <option name="profiles">
+                <set />
+              </option>
+              <option name="goals">
+                <list>
+                  <option value="quarkus:dev" />
+                </list>
+              </option>
+              <option name="pomFileName" value="pom.xml" />
+              <option name="profilesMap">
+                <map />
+              </option>
+              <option name="resolveToWorkspace" value="false" />
+              <option name="workingDirPath" value="$PROJECT_DIR$/building-blocks/configuration" />
+            </MavenRunnerParameters>
+          </option>
+        </MavenSettings>
+        <targetMavenLocalRepo />
+        <emulateTerminal>false</emulateTerminal>
+      </QsMavenRunConfiguration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="infrastructure" type="QuarkusRunConfigurationType" factoryName="Quarkus" nameIsGenerated="true">
+      <module name="infrastructure" />
+      <QsMavenRunConfiguration>
+        <MavenSettings>
+          <option name="myGeneralSettings" />
+          <option name="myRunnerSettings" />
+          <option name="myRunnerParameters">
+            <MavenRunnerParameters>
+              <option name="profiles">
+                <set />
+              </option>
+              <option name="goals">
+                <list>
+                  <option value="quarkus:dev" />
+                </list>
+              </option>
+              <option name="pomFileName" value="pom.xml" />
+              <option name="profilesMap">
+                <map />
+              </option>
+              <option name="resolveToWorkspace" value="false" />
+              <option name="workingDirPath" value="$PROJECT_DIR$/building-blocks/infrastructure" />
+            </MavenRunnerParameters>
+          </option>
+        </MavenSettings>
+        <targetMavenLocalRepo />
+        <emulateTerminal>false</emulateTerminal>
+      </QsMavenRunConfiguration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shared" type="QuarkusRunConfigurationType" factoryName="Quarkus" nameIsGenerated="true">
+      <module name="shared" />
+      <QsMavenRunConfiguration>
+        <MavenSettings>
+          <option name="myGeneralSettings" />
+          <option name="myRunnerSettings" />
+          <option name="myRunnerParameters">
+            <MavenRunnerParameters>
+              <option name="profiles">
+                <set />
+              </option>
+              <option name="goals">
+                <list>
+                  <option value="quarkus:dev" />
+                </list>
+              </option>
+              <option name="pomFileName" value="pom.xml" />
+              <option name="profilesMap">
+                <map />
+              </option>
+              <option name="resolveToWorkspace" value="false" />
+              <option name="workingDirPath" value="$PROJECT_DIR$/shared" />
+            </MavenRunnerParameters>
+          </option>
+        </MavenSettings>
+        <targetMavenLocalRepo />
+        <emulateTerminal>false</emulateTerminal>
+      </QsMavenRunConfiguration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,8 +272,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698134394002</updated>
-      <workItem from="1698134395252" duration="2000" />
+      <workItem from="1698134395252" duration="3465000" />
+      <workItem from="1698137898290" duration="7901000" />
+      <workItem from="1698203287467" duration="17879000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
